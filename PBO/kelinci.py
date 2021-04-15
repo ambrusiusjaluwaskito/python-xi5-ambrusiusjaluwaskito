@@ -22,3 +22,4 @@ kelinci2 = Kelinci("Putih", 1.5, 3)
 kelinci1.tampilkan_profil()
 kelinci2.tampilkan_profil()
 kelinci1.tampilkan_jumlah()
+
